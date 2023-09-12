@@ -1,0 +1,19 @@
+img{
+    max-height: 180px;
+    max-width: 90%;
+}
+.card{
+    background-color: bisque;
+    padding: 15px;
+    border-radius: 15px;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+}
+.btn:hover{
+    cursor: pointer;
+}
